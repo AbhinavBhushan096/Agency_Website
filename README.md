@@ -2,7 +2,7 @@
 
 Adex is a fully responsive business agency website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-[**➥ Live Demo**](https://codewithsadee.github.io/adex/)
+[**➥ Live Demo**](https://abhinavbhushan096.github.io/Agency_Website/)
 
 ---
 
